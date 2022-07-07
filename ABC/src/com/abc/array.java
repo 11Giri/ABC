@@ -30,12 +30,14 @@ for(int i=0;i<array.length;i++) {
 System.out.println( " "+array[i]);
 
 }
+	}
 
-for(inti=0;i<array-1;i++) {
+for(int i=0;i <array-1;i++) {
 	for(int j=1+1;j<array;j++) {
 		if (array[i]==array[j])
 	}
 	
 }
+
 }
 }

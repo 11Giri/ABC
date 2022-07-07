@@ -2,11 +2,33 @@ package com.raj;
 
 import java.util.Scanner;
 
-public class Bank {
+public abstract class Bank {
 	
 	
+	public String Name="myBank";
+	public String IFSC="myBank123";
+	
+	public void bankDetail() {
+		System.out.println("Bamk_name:"+Name+" "+"Bank_IFSC code"+IFSC);
+	}
+		
+	abstract void Deposite();
+	abstract void Withdraw();
+	abstract void checkBal();
+
+	protected abstract void Withfraw(int ch);
+
+	public void Deposite(int ch) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}
+	abstract class bankService{
 private double bal=5000;
 private int pwd;
+public double money;
+	
 public void Deposite(double money) {
 	System.out.println("Enter Password");
 	Scanner s=new Scanner(System.in);
@@ -56,9 +78,9 @@ else {
 }
 }
 
-class customer {
+class Customer {
 	public static void main(String[] args) {
-		Bank b = new Bank();
+		Bank b = new Bank ();
 		int ch;
 		System.out.println("1.Deposite");
 		System.out.println("2. withdraw:");
