@@ -11,7 +11,6 @@ public class tenary {
 		ch = sc.nextInt();
 		switch (ch) {
 		case 1:
-		
 			System.out.println("sum" + (a + b));
 		case 2:
 			System.out.println("sub" + (a - b));

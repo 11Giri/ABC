@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-08-18T11:50:57.076567200Z</date>
+  <millis>1660823457076</millis>
+  <nanos>567200</nanos>
+  <sequence>0</sequence>
+  <logger>Application</logger>
+  <level>INFO</level>
+  <class>LogMain</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Fourth try</message>
+</record>
+<record>
+  <date>2022-08-18T11:50:57.160341100Z</date>
+  <millis>1660823457160</millis>
+  <nanos>341100</nanos>
+  <sequence>1</sequence>
+  <logger>Application</logger>
+  <level>SEVERE</level>
+  <class>LogMain</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message> Fifth Try </message>
+</record>
+<record>
+  <date>2022-08-18T11:50:57.161339100Z</date>
+  <millis>1660823457161</millis>
+  <nanos>339100</nanos>
+  <sequence>2</sequence>
+  <logger>Application</logger>
+  <level>WARNING</level>
+  <class>LogMain</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message> sixth Try</message>
+</record>
+<record>
+  <date>2022-08-18T11:50:57.165328500Z</date>
+  <millis>1660823457165</millis>
+  <nanos>328500</nanos>
+  <sequence>3</sequence>
+  <logger>Application</logger>
+  <level>INFO</level>
+  <class>LogFile</class>
+  <method>display</method>
+  <thread>1</thread>
+  <message> First Inside display method</message>
+</record>
+<record>
+  <date>2022-08-18T11:50:57.166325800Z</date>
+  <millis>1660823457166</millis>
+  <nanos>325800</nanos>
+  <sequence>4</sequence>
+  <logger>Application</logger>
+  <level>WARNING</level>
+  <class>LogFile</class>
+  <method>run</method>
+  <thread>1</thread>
+  <message> Secound Inside run method</message>
+</record>
+<record>
+  <date>2022-08-18T11:50:57.168321500Z</date>
+  <millis>1660823457168</millis>
+  <nanos>321500</nanos>
+  <sequence>5</sequence>
+  <logger>Application</logger>
+  <level>SEVERE</level>
+  <class>LogFile</class>
+  <method>walk</method>
+  <thread>1</thread>
+  <message> Third Inside walk method</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-08-18T12:00:02.965330Z</date>
+  <millis>1660824002965</millis>
+  <nanos>330000</nanos>
+  <sequence>0</sequence>
+  <logger>Application</logger>
+  <level>INFO</level>
+  <class>LogMain</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Fourth try</message>
+</record>
+<record>
+  <date>2022-08-18T12:00:03.023162400Z</date>
+  <millis>1660824003023</millis>
+  <nanos>162400</nanos>
+  <sequence>1</sequence>
+  <logger>Application</logger>
+  <level>SEVERE</level>
+  <class>LogMain</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message> Fifth Try </message>
+</record>
+<record>
+  <date>2022-08-18T12:00:03.024159800Z</date>
+  <millis>1660824003024</millis>
+  <nanos>159800</nanos>
+  <sequence>2</sequence>
+  <logger>Application</logger>
+  <level>WARNING</level>
+  <class>LogMain</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message> sixth Try</message>
+</record>
+<record>
+  <date>2022-08-18T12:00:03.027185Z</date>
+  <millis>1660824003027</millis>
+  <nanos>185000</nanos>
+  <sequence>3</sequence>
+  <logger>Application</logger>
+  <level>INFO</level>
+  <class>LogFile</class>
+  <method>display</method>
+  <thread>1</thread>
+  <message> First Inside display method</message>
+</record>
+<record>
+  <date>2022-08-18T12:00:03.028151400Z</date>
+  <millis>1660824003028</millis>
+  <nanos>151400</nanos>
+  <sequence>4</sequence>
+  <logger>Application</logger>
+  <level>WARNING</level>
+  <class>LogFile</class>
+  <method>run</method>
+  <thread>1</thread>
+  <message> Secound Inside run method</message>
+</record>
+<record>
+  <date>2022-08-18T12:00:03.029149300Z</date>
+  <millis>1660824003029</millis>
+  <nanos>149300</nanos>
+  <sequence>5</sequence>
+  <logger>Application</logger>
+  <level>SEVERE</level>
+  <class>LogFile</class>
+  <method>walk</method>
+  <thread>1</thread>
+  <message> Third Inside walk method</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-08-18T12:01:14.087678400Z</date>
+  <millis>1660824074087</millis>
+  <nanos>678400</nanos>
+  <sequence>0</sequence>
+  <logger>Application</logger>
+  <level>INFO</level>
+  <class>LogMain</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Fourth try</message>
+</record>
+<record>
+  <date>2022-08-18T12:01:14.144558900Z</date>
+  <millis>1660824074144</millis>
+  <nanos>558900</nanos>
+  <sequence>1</sequence>
+  <logger>Application</logger>
+  <level>SEVERE</level>
+  <class>LogMain</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message> Fifth Try </message>
+</record>
+<record>
+  <date>2022-08-18T12:01:14.145563200Z</date>
+  <millis>1660824074145</millis>
+  <nanos>563200</nanos>
+  <sequence>2</sequence>
+  <logger>Application</logger>
+  <level>WARNING</level>
+  <class>LogMain</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message> sixth Try</message>
+</record>
+<record>
+  <date>2022-08-18T12:01:14.148516500Z</date>
+  <millis>1660824074148</millis>
+  <nanos>516500</nanos>
+  <sequence>3</sequence>
+  <logger>Application</logger>
+  <level>INFO</level>
+  <class>LogFile</class>
+  <method>display</method>
+  <thread>1</thread>
+  <message> First Inside display method</message>
+</record>
+<record>
+  <date>2022-08-18T12:01:14.149634400Z</date>
+  <millis>1660824074149</millis>
+  <nanos>634400</nanos>
+  <sequence>4</sequence>
+  <logger>Application</logger>
+  <level>WARNING</level>
+  <class>LogFile</class>
+  <method>run</method>
+  <thread>1</thread>
+  <message> Secound Inside run method</message>
+</record>
+<record>
+  <date>2022-08-18T12:01:14.150513400Z</date>
+  <millis>1660824074150</millis>
+  <nanos>513400</nanos>
+  <sequence>5</sequence>
+  <logger>Application</logger>
+  <level>SEVERE</level>
+  <class>LogFile</class>
+  <method>walk</method>
+  <thread>1</thread>
+  <message> Third Inside walk method</message>
+</record>
+</log>
